@@ -1,0 +1,3 @@
+# Backup tarball contains credentials — never push
+claude-backup.tar.gz
+*.tar.gz
