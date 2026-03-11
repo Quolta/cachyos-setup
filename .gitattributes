@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.colors text eol=lf
+*.colorscheme text eol=lf
+*.profile text eol=lf
+*.sh text eol=lf
